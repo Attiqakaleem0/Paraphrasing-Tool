@@ -1,0 +1,1 @@
+The tool is built using the Pegasus model, a cutting-edge natural language processing (NLP) model from Hugging Face. Pegasus is specifically designed for text generation tasks, with a focus on abstractive summarization. It's based on a transformer architecture and is pre-trained on a massive amount of diverse data.
